@@ -8,7 +8,7 @@ Python version: 3.10+
 pip install fastapi uvicorn websockets twilio openai requests python-dotenv
 cp .env.example .env          # fill in SERVER_DOMAIN after tunnel starts
 npx localtunnel --port 8080   # Terminal 1
-jupyter nbconvert --to notebook --execute --inplace pgai-voice-bot.ipynb   # Terminal 2 -- runs notebook + bug report
+jupyter nbconvert --to notebook --execute --inplace voicebotbugfinder.ipynb   # Terminal 2 -- runs notebook + bug report
 ```
 
 # Voice Bot -- Architecture
