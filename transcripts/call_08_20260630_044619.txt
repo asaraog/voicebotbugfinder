@@ -1,0 +1,20 @@
+[03:24:19] VAD    : caller speech started
+[03:24:22] VAD    : caller speech stopped
+[03:24:22] VAD    : caller speech started
+[03:24:22] Bot    : Hi, sorry,
+[03:24:24] VAD    : caller speech stopped
+[03:24:24] VAD    : caller speech started
+[03:24:25] VAD    : caller speech stopped
+[03:24:26] Bot    : Yes, this is Maria Garcia.
+[03:24:31] VAD    : caller speech started
+[03:24:33] VAD    : caller speech stopped
+[03:24:34] Bot    : Sure, it's March 12, 1985.
+[03:24:40] VAD    : caller speech started
+[03:24:41] VAD    : caller speech stopped
+[03:24:41] VAD    : caller speech started
+[03:24:41] Bot    : Wait, is there parking there?
+[03:24:43] VAD    : caller speech stopped
+[03:24:43] Bot    : It’s March 12, 1985.
+[03:24:48] VAD    : caller speech started
+[03:24:48] VAD    : caller speech stopped
+[03:24:48] VAD    : caller speech started

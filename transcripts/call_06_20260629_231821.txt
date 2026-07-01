@@ -1,0 +1,27 @@
+[22:00:46] VAD    : caller speech started
+[22:00:58] VAD    : caller speech stopped
+[22:00:58] Bot    : Actually, my name is Maria Garcia.
+[22:01:08] VAD    : caller speech started
+[22:01:11] VAD    : caller speech stopped
+[22:01:11] Bot    : Sure, it’s March 12, 1985.
+[22:01:19] VAD    : caller speech started
+[22:01:30] VAD    : caller speech stopped
+[22:01:31] Bot    : Yes, that's correct. It's Maria Garcia, spelled G-A-R-C-I-A.
+[22:01:41] VAD    : caller speech started
+[22:01:52] VAD    : caller speech stopped
+[22:01:53] Bot    : I can provide my phone number, it's 555-0123.
+[22:02:01] VAD    : caller speech started
+[22:02:06] VAD    : caller speech stopped
+[22:02:07] Bot    : Yes, that’s correct.
+[22:02:13] VAD    : caller speech started
+[22:02:24] VAD    : caller speech stopped
+[22:02:25] Bot    : Yes, that’s all correct.
+[22:02:31] VAD    : caller speech started
+[22:02:40] VAD    : caller speech stopped
+[22:02:40] Bot    : Yes, that would be helpful, thank you.
+[22:02:45] VAD    : caller speech started
+[22:02:49] VAD    : caller speech stopped
+[22:02:49] Bot    : Sure, I'll hold on.
+[22:02:49] VAD    : caller speech started
+[22:02:54] VAD    : caller speech stopped
+[22:02:55] Bot    : Oh, it seems I’ve been disconnected. Could you please connect me back to the support team?

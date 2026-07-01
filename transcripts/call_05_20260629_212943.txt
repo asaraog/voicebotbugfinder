@@ -1,0 +1,39 @@
+[20:29:43] VAD    : caller speech started
+[20:29:50] VAD    : caller speech stopped
+[20:29:50] Bot    : No, actually, this is Carlos.
+[20:29:55] VAD    : caller speech started
+[20:30:00] VAD    : caller speech stopped
+[20:30:00] Bot    : I'm calling for myself.
+[20:30:05] VAD    : caller speech started
+[20:30:07] VAD    : caller speech stopped
+[20:30:08] Bot    : Sure, it’s February 27, 1985.
+[20:30:15] VAD    : caller speech started
+[20:30:22] VAD    : caller speech stopped
+[20:30:23] Bot    : Of course, it’s Carlos Rivera, February 27, 1985.
+[20:30:32] VAD    : caller speech started
+[20:30:45] VAD    : caller speech stopped
+[20:30:46] Bot    : Yes, that’s correct. Carlos Rivera, C-A-R-L-O-S, R-I-V-E-R-A.
+[20:30:53] VAD    : caller speech started
+[20:30:57] VAD    : caller speech stopped
+[20:30:57] Bot    : Sure, it’s R-I-V-E-R-A.
+[20:31:00] VAD    : caller speech started
+[20:31:03] VAD    : caller speech stopped
+[20:31:04] Bot    : R-I-V-E-R-A
+[20:31:05] VAD    : caller speech started
+[20:31:08] VAD    : caller speech stopped
+[20:31:08] Bot    : R-I-V-E-R-A
+[20:31:15] VAD    : caller speech started
+[20:31:27] VAD    : caller speech stopped
+[20:31:28] Bot    : That might work. The number is 555-123-4567.
+[20:31:37] VAD    : caller speech started
+[20:31:48] VAD    : caller speech stopped
+[20:31:49] Bot    : Yes, that’s correct.
+[20:31:55] VAD    : caller speech started
+[20:32:03] VAD    : caller speech stopped
+[20:32:03] Bot    : Yes, that would be great, thank you.
+[20:32:09] VAD    : caller speech started
+[20:32:12] VAD    : caller speech stopped
+[20:32:13] Bot    : Understood. I'll wait—thank you.
+[20:32:13] VAD    : caller speech started
+[20:32:17] VAD    : caller speech stopped
+[20:32:18] Bot    : Wait, before we hang up, can you confirm the next steps?

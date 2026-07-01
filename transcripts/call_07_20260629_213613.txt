@@ -1,0 +1,36 @@
+[20:36:14] VAD    : caller speech started
+[20:36:14] Bot    : Hi, this is Tom Bradley, May 10, 1970,
+[20:36:20] VAD    : caller speech stopped
+[20:36:21] Bot    : No, this is Tom Bradley.
+[20:36:25] VAD    : caller speech started
+[20:36:30] VAD    : caller speech stopped
+[20:36:31] Bot    : I'm calling for myself.
+[20:36:36] VAD    : caller speech started
+[20:36:38] VAD    : caller speech stopped
+[20:36:39] Bot    : May 10, 1970.
+[20:36:47] VAD    : caller speech started
+[20:36:59] VAD    : caller speech stopped
+[20:37:00] Bot    : Sure, T-O-M for the first name and B-R-A-D-L-E-Y for the last name.
+[20:37:04] VAD    : caller speech started
+[20:37:08] VAD    : caller speech stopped
+[20:37:08] Bot    : T-O-M, Bradley, B-R-A-D-L-E-Y.
+[20:37:16] VAD    : caller speech started
+[20:37:27] VAD    : caller speech stopped
+[20:37:29] Bot    : Sure, my number is 555-0192.
+[20:37:31] VAD    : caller speech started
+[20:37:34] VAD    : caller speech stopped
+[20:37:35] Bot    : It’s 555-0192.
+[20:37:37] VAD    : caller speech started
+[20:37:41] VAD    : caller speech stopped
+[20:37:42] Bot    : Sure, it’s 555-0192.
+[20:37:49] VAD    : caller speech started
+[20:37:58] VAD    : caller speech stopped
+[20:37:58] Bot    : Yes, that's correct.
+[20:38:06] VAD    : caller speech started
+[20:38:14] VAD    : caller speech stopped
+[20:38:14] Bot    : Thank you, I'll wait.
+[20:38:15] VAD    : caller speech started
+[20:38:25] VAD    : caller speech stopped
+[20:38:25] VAD    : caller speech started
+[20:38:29] VAD    : caller speech stopped
+[20:38:30] Bot    : Understood, thank you. I'll follow up another way.

@@ -1,0 +1,27 @@
+[20:26:58] VAD    : caller speech started
+[20:27:05] VAD    : caller speech stopped
+[20:27:06] Bot    : No, this is Linda Patel.
+[20:27:10] VAD    : caller speech started
+[20:27:14] VAD    : caller speech stopped
+[20:27:14] Bot    : I'm calling for myself.
+[20:27:19] VAD    : caller speech started
+[20:27:21] VAD    : caller speech stopped
+[20:27:22] Bot    : Sure, it’s August 14, 1978.
+[20:27:29] VAD    : caller speech started
+[20:27:40] VAD    : caller speech stopped
+[20:27:42] Bot    : Yes, that’s correct. Linda Patel is spelled L-I-N-D-A for the first name, and P-A-T-E-L for the last name.
+[20:27:52] VAD    : caller speech started
+[20:28:00] VAD    : caller speech stopped
+[20:28:01] Bot    : Yes, it's (408) 555-0192.
+[20:28:10] VAD    : caller speech started
+[20:28:21] VAD    : caller speech stopped
+[20:28:21] Bot    : Yes, that’s correct.
+[20:28:28] VAD    : caller speech started
+[20:28:36] VAD    : caller speech stopped
+[20:28:37] Bot    : Yes, that would be great, thank you.
+[20:28:42] VAD    : caller speech started
+[20:28:46] VAD    : caller speech stopped
+[20:28:47] VAD    : caller speech started
+[20:28:47] Bot    : Thank you, I’ll hold.
+[20:28:52] VAD    : caller speech stopped
+[20:28:52] Bot    : Oh, it seems like there’s a mix-up. I’ll disconnect now. Thank you.

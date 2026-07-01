@@ -1,0 +1,27 @@
+[20:45:45] VAD    : caller speech started
+[20:45:52] VAD    : caller speech stopped
+[20:45:52] Bot    : I'm sorry, my name is Priya Sharma.
+[20:45:57] VAD    : caller speech started
+[20:46:02] VAD    : caller speech stopped
+[20:46:02] Bot    : For myself.
+[20:46:06] VAD    : caller speech started
+[20:46:09] VAD    : caller speech stopped
+[20:46:09] Bot    : April 5, 1988.
+[20:46:16] VAD    : caller speech started
+[20:46:28] VAD    : caller speech stopped
+[20:46:29] Bot    : Yes, Priya Sharma. P-R-I-Y-A, S-H-A-R-M-A.
+[20:46:38] VAD    : caller speech started
+[20:46:45] VAD    : caller speech stopped
+[20:46:46] Bot    : Sure, the number is 555-123-4567.
+[20:46:55] VAD    : caller speech started
+[20:47:06] VAD    : caller speech stopped
+[20:47:06] Bot    : Yes, that’s correct.
+[20:47:12] VAD    : caller speech started
+[20:47:21] VAD    : caller speech stopped
+[20:47:21] Bot    : Yes, that would be great. Thank you.
+[20:47:27] VAD    : caller speech started
+[20:47:31] VAD    : caller speech stopped
+[20:47:32] VAD    : caller speech started
+[20:47:32] Bot    : Thank you, I’ll hold on.
+[20:47:36] VAD    : caller speech stopped
+[20:47:37] Bot    : Thank you, I’ll call back later. Goodbye.

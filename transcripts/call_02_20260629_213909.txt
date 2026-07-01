@@ -1,0 +1,33 @@
+[21:36:08] VAD    : caller speech started
+[21:36:21] VAD    : caller speech stopped
+[21:36:21] Bot    : Hi, yes, this is Maria. Thank you for letting me know.
+[21:36:27] VAD    : caller speech started
+[21:36:29] VAD    : caller speech stopped
+[21:36:30] Bot    : Sure, my date of birth is March 12, 1985.
+[21:36:38] VAD    : caller speech started
+[21:36:45] VAD    : caller speech stopped
+[21:36:46] Bot    : Thank you for confirming. I need to reschedule my appointment to a week from now.
+[21:36:54] VAD    : caller speech started
+[21:37:05] VAD    : caller speech stopped
+[21:37:06] Bot    : Yes, that's the one. I'd like to move it to a week later, if possible.
+[21:37:14] VAD    : caller speech started
+[21:37:25] VAD    : caller speech stopped
+[21:37:25] Bot    : 12 p.m. works for me.
+[21:37:29] VAD    : caller speech started
+[21:37:33] VAD    : caller speech stopped
+[21:37:34] Bot    : Sure, I just need to move it due to a work conflict. What’s the cancellation policy?
+[21:37:41] VAD    : caller speech started
+[21:37:56] VAD    : caller speech stopped
+[21:37:56] Bot    : Yes, let's proceed with that time. Thank you.
+[21:38:04] VAD    : caller speech started
+[21:38:14] VAD    : caller speech stopped
+[21:38:15] Bot    : Yes, please send it to my phone number on file. One quick question: do you charge for cancellations within 24 hours?
+[21:38:25] VAD    : caller speech started
+[21:38:38] VAD    : caller speech stopped
+[21:38:39] Bot    : Yes, that would be great, thank you.
+[21:38:48] VAD    : caller speech started
+[21:38:58] VAD    : caller speech stopped
+[21:38:59] Bot    : No, that’s all for now. Thank you.
+[21:39:03] VAD    : caller speech started
+[21:39:06] VAD    : caller speech stopped
+[21:39:07] Bot    : Thank you, you too.

@@ -1,0 +1,60 @@
+[02:42:38] VAD    : caller speech started
+[02:42:49] VAD    : caller speech stopped
+[02:42:51] Bot    : Namaste, mujhe ek appointment chahiye.
+[02:42:55] VAD    : caller speech started
+[02:42:57] VAD    : caller speech stopped
+[02:43:02] Bot    : माफ़ कीजिए, मैं हिंदी में बात कर रही हूँ. कृपया हिंदी में बताएं.
+[02:43:14] VAD    : caller speech started
+[02:43:15] VAD    : caller speech stopped
+[02:43:18] Bot    : मैं समझ नहीं पा रही, कृपया हिंदी में बात करें. I do not know English, only Hindi.
+[02:43:24] VAD    : caller speech started
+[02:43:31] VAD    : caller speech stopped
+[02:43:37] Bot    : ठीक है, मैं अभी फिर से कॉल करूँगी. धन्यवाद.
+[02:43:46] VAD    : caller speech started
+[02:43:53] VAD    : caller speech stopped
+[02:43:58] Bot    : ठीक है, मैं वापस कॉल करूंगी जब हिंदी सहायता मिलेगी. धन्यवाद.
+[02:44:02] VAD    : caller speech started
+[02:44:04] VAD    : caller speech stopped
+[02:44:07] Bot    : मैं एक अपॉइंटमेंट बुक करना चाहती हूँ.
+[02:44:10] VAD    : caller speech started
+[02:44:13] VAD    : caller speech stopped
+[02:44:17] Bot    : Mera janm din hai 12 March 1985.
+[02:44:22] VAD    : caller speech started
+[02:44:25] VAD    : caller speech stopped
+[02:44:30] Bot    : Haan, bilkul, mera pura janm din 12 March 1985 hai.
+[02:44:33] VAD    : caller speech started
+[02:44:37] VAD    : caller speech stopped
+[02:44:40] Bot    : 12 March 1985
+[02:44:50] VAD    : caller speech started
+[02:44:55] VAD    : caller speech stopped
+[02:44:57] Bot    : Bilkul, mera pura janm din hai 12 March 1985.
+[02:45:10] VAD    : caller speech started
+[02:45:15] VAD    : caller speech stopped
+[02:45:16] Bot    : ठीक है, 12 March 1985.
+[02:45:21] VAD    : caller speech started
+[02:45:24] VAD    : caller speech stopped
+[02:45:25] Bot    : Mera naam Garcia hai, aur pura janm din 12 March 1985.
+[02:45:39] VAD    : caller speech started
+[02:45:43] VAD    : caller speech stopped
+[02:45:45] Bot    : Garcia, aur mera janm din 12 March 1985 hai.
+[02:45:52] VAD    : caller speech started
+[02:45:56] VAD    : caller speech stopped
+[02:45:59] Bot    : Yes, 1985.
+[02:46:00] VAD    : caller speech started
+[02:46:02] VAD    : caller speech stopped
+[02:46:04] Bot    : 1985.
+[02:46:08] VAD    : caller speech started
+[02:46:18] VAD    : caller speech stopped
+[02:46:21] Bot    : Mera naam Maria Garcia hai, March 12, 1985.
+[02:46:28] VAD    : caller speech started
+[02:46:31] VAD    : caller speech stopped
+[02:46:34] Bot    : G, A, R, C, I, A.
+[02:46:40] VAD    : caller speech started
+[02:46:52] VAD    : caller speech stopped
+[02:46:54] Bot    : Mera phone number hai 555-123-4567.
+[02:47:02] VAD    : caller speech started
+[02:47:16] VAD    : caller speech stopped
+[02:47:17] Bot    : Haan, mera naam Maria Garcia hai aur date of birth 12 March 1985.
+[02:47:24] VAD    : caller speech started
+[02:47:28] VAD    : caller speech stopped
+[02:47:32] Bot    : Mera poora naam Maria Garcia hai.

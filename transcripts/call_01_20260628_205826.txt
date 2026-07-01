@@ -1,0 +1,33 @@
+[20:56:17] VAD    : caller speech started
+[20:56:23] VAD    : caller speech stopped
+[20:56:24] Bot    : Yes, this is Maria. Thank you.
+[20:56:29] VAD    : caller speech started
+[20:56:31] VAD    : caller speech stopped
+[20:56:32] Bot    : Sure, it’s March 12, 1985.
+[20:56:38] VAD    : caller speech started
+[20:56:45] VAD    : caller speech stopped
+[20:56:46] Bot    : I’d like to book my first visit. Could you let me know what documents I should bring?
+[20:56:52] VAD    : caller speech started
+[20:57:06] VAD    : caller speech stopped
+[20:57:07] Bot    : Yes, that would be great. Please, what times are available next week?
+[20:57:11] VAD    : caller speech started
+[20:57:16] VAD    : caller speech stopped
+[20:57:17] Bot    : Yes, that’s correct.
+[20:57:21] VAD    : caller speech started
+[20:57:26] VAD    : caller speech stopped
+[20:57:26] Bot    : I’m open to the first available.
+[20:57:31] VAD    : caller speech started
+[20:57:42] VAD    : caller speech stopped
+[20:57:43] Bot    : I’m not sure about that appointment—can you tell me the date it’s set for?
+[20:57:48] VAD    : caller speech started
+[20:57:57] VAD    : caller speech stopped
+[20:57:58] Bot    : Yes, please, that would be helpful. Thank you.
+[20:58:03] VAD    : caller speech started
+[20:58:09] VAD    : caller speech stopped
+[20:58:10] Bot    : Mornings would be best, if possible.
+[20:58:15] VAD    : caller speech started
+[20:58:19] VAD    : caller speech stopped
+[20:58:19] VAD    : caller speech started
+[20:58:19] Bot    : Thank you, I’ll hold on.
+[20:58:24] VAD    : caller speech stopped
+[20:58:24] Bot    : Goodbye.

@@ -1,0 +1,54 @@
+[02:19:09] VAD    : caller speech started
+[02:19:21] VAD    : caller speech stopped
+[02:19:22] Bot    : Namaste, mujhe ek appointment chahiye.
+[02:19:28] VAD    : caller speech started
+[02:19:31] VAD    : caller speech stopped
+[02:19:32] Bot    : Mera janm din 12 March 1985 hai.
+[02:19:45] VAD    : caller speech started
+[02:19:50] VAD    : caller speech stopped
+[02:19:51] Bot    : Mera janm din 12 March 1985 hai.
+[02:20:04] VAD    : caller speech started
+[02:20:09] VAD    : caller speech stopped
+[02:20:10] Bot    : 12 March 1985.
+[02:20:22] VAD    : caller speech started
+[02:20:24] VAD    : caller speech stopped
+[02:20:26] Bot    : 12 March 1985.
+[02:20:37] VAD    : caller speech started
+[02:20:40] VAD    : caller speech stopped
+[02:20:43] Bot    : Mera janm din 12 March 1985 hai.
+[02:20:49] VAD    : caller speech started
+[02:20:55] VAD    : caller speech stopped
+[02:20:57] Bot    : 12/03/1985
+[02:21:00] VAD    : caller speech started
+[02:21:07] VAD    : caller speech stopped
+[02:21:09] Bot    : Mera janm din hai 12 March 1985.
+[02:21:15] VAD    : caller speech started
+[02:21:19] VAD    : caller speech stopped
+[02:21:20] Bot    : Bilkul, mera pura janm din hai 12 March 1985.
+[02:21:27] VAD    : caller speech started
+[02:21:33] VAD    : caller speech stopped
+[02:21:34] Bot    : 12 March 1985.
+[02:21:50] VAD    : caller speech started
+[02:21:58] VAD    : caller speech stopped
+[02:22:01] Bot    : Mera poora naam Maria Garcia hai, aur mera janm din 12 March 1985 hai.
+[02:22:15] VAD    : caller speech started
+[02:22:23] VAD    : caller speech stopped
+[02:22:27] Bot    : Mera naam Maria Garcia hai, aur mera janm din 12 March 1985 hai.
+[02:22:40] VAD    : caller speech started
+[02:22:46] VAD    : caller speech stopped
+[02:22:48] Bot    : Mera naam Maria Garcia hai, janm din 12 March 1985.
+[02:23:03] VAD    : caller speech started
+[02:23:10] VAD    : caller speech stopped
+[02:23:12] Bot    : Mera naam Maria Garcia hai, aur mera janm 12 March 1985 hai.
+[02:23:26] VAD    : caller speech started
+[02:23:31] VAD    : caller speech stopped
+[02:23:33] Bot    : Main ek nayi appointment book karna chahti hoon.
+[02:23:34] VAD    : caller speech started
+[02:23:35] VAD    : caller speech stopped
+[02:23:37] Bot    : Haan, main tayar hoon. Aap bataiye kaunsi tareekh aur samay theek rahega.
+[02:23:43] VAD    : caller speech started
+[02:23:48] VAD    : caller speech stopped
+[02:23:50] Bot    : Main ek nayi appointment book karna chahti hoon.
+[02:23:55] VAD    : caller speech started
+[02:24:02] VAD    : caller speech stopped
+[02:24:05] Bot    : Haan, mujhe patient support team se baat karni hai. कृपया transfer kar dijiye.

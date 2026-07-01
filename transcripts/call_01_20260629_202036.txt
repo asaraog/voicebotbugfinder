@@ -1,0 +1,27 @@
+[20:18:12] VAD    : caller speech started
+[20:18:22] VAD    : caller speech stopped
+[20:18:23] Bot    : Sure, my name is Maria Garcia.
+[20:18:29] VAD    : caller speech started
+[20:18:37] VAD    : caller speech stopped
+[20:18:37] Bot    : Actually, my date of birth is March 12, 1985.
+[20:18:44] VAD    : caller speech started
+[20:18:51] VAD    : caller speech stopped
+[20:18:52] Bot    : I’d like to book my first appointment, please.
+[20:18:57] VAD    : caller speech started
+[20:19:04] VAD    : caller speech stopped
+[20:19:05] Bot    : Yes, that’s correct. It’s for a general consultation to establish care.
+[20:19:12] VAD    : caller speech started
+[20:19:19] VAD    : caller speech stopped
+[20:19:19] Bot    : I’m open to the first available appointment, thank you.
+[20:19:26] VAD    : caller speech started
+[20:19:35] VAD    : caller speech stopped
+[20:19:36] Bot    : Next week would be fine—maybe sometime Tuesday or Wednesday?
+[20:19:44] VAD    : caller speech started
+[20:19:55] VAD    : caller speech stopped
+[20:19:56] Bot    : 2:15 PM would work, thank you.
+[20:20:04] VAD    : caller speech started
+[20:20:22] VAD    : caller speech stopped
+[20:20:23] Bot    : No, that’s all for now, thank you.
+[20:20:27] VAD    : caller speech started
+[20:20:33] VAD    : caller speech stopped
+[20:20:34] Bot    : Thank you, you too. Goodbye.

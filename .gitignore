@@ -1,0 +1,26 @@
+# Secrets
+.env
+*.env
+!.env.example
+!*.env.example
+
+# Call data
+runs/
+call_results.json
+bug_report.md
+
+# Test data (personal)
+test_recordings/
+test_transcripts/
+test_call_results.json
+run_test_calls.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

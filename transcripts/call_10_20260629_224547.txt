@@ -1,0 +1,33 @@
+[22:11:26] VAD    : caller speech started
+[22:11:39] VAD    : caller speech stopped
+[22:11:40] Bot    : Este mensaje es para informarte que este llamado puede ser grabado. Hola, buenos días, mi nombre es Maria Garcia. Esto es para concertar una cita, por favor.
+[22:11:51] VAD    : caller speech started
+[22:12:00] VAD    : caller speech stopped
+[22:12:00] Bot    : I didn’t quite catch that. I just need an appointment, please.
+[22:12:09] VAD    : caller speech started
+[22:12:11] VAD    : caller speech stopped
+[22:12:12] Bot    : Sure, my date of birth is March 12, 1985.
+[22:12:24] VAD    : caller speech started
+[22:12:33] VAD    : caller speech stopped
+[22:12:33] Bot    : It’s for a new patient consultation.
+[22:12:39] VAD    : caller speech started
+[22:12:44] VAD    : caller speech stopped
+[22:12:45] Bot    : I’m open to the first available.
+[22:12:54] VAD    : caller speech started
+[22:13:06] VAD    : caller speech stopped
+[22:13:07] Bot    : I’d like to confirm the details, please.
+[22:13:12] VAD    : caller speech started
+[22:13:30] VAD    : caller speech stopped
+[22:13:30] Bot    : Yes, please connect me to a team member who can help.
+[22:13:37] VAD    : caller speech started
+[22:13:47] VAD    : caller speech stopped
+[22:13:48] Bot    : I’d like to continue with you, please.
+[22:13:54] VAD    : caller speech started
+[22:14:08] VAD    : caller speech stopped
+[22:14:09] Bot    : That’s correct. I’d like to confirm the follow-up date. It's Monday, July 6th at 11 a.m., right?
+[22:14:18] VAD    : caller speech started
+[22:14:25] VAD    : caller speech stopped
+[22:14:25] Bot    : No, that’s all for now. Thank you.
+[22:14:30] VAD    : caller speech started
+[22:14:36] VAD    : caller speech stopped
+[22:14:36] Bot    : Thank you, you too. Goodbye.

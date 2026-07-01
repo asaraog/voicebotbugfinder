@@ -1,0 +1,30 @@
+[03:19:07] VAD    : caller speech started
+[03:19:13] VAD    : caller speech stopped
+[03:19:14] Bot    : Yes, this is Maria Garcia. Thank you for confirming.
+[03:19:20] VAD    : caller speech started
+[03:19:23] VAD    : caller speech stopped
+[03:19:23] Bot    : Sure, it's March 12, 1985.
+[03:19:31] VAD    : caller speech started
+[03:19:37] VAD    : caller speech stopped
+[03:19:38] Bot    : I’d like to request a refill for my cholesterol medication, atorvastatin 20 mg. Also, could I get the fax number for my specialist?
+[03:19:48] VAD    : caller speech started
+[03:19:55] VAD    : caller speech stopped
+[03:19:56] Bot    : I have about three days left.
+[03:20:00] VAD    : caller speech started
+[03:20:07] VAD    : caller speech stopped
+[03:20:08] Bot    : Yes, that's correct. Thank you.
+[03:20:13] VAD    : caller speech started
+[03:20:27] VAD    : caller speech stopped
+[03:20:28] Bot    : I'm using CVS Pharmacy at 123 Main Street, and their fax number is 555-234-5678.
+[03:20:39] VAD    : caller speech started
+[03:20:47] VAD    : caller speech stopped
+[03:20:48] Bot    : It's in San Jose, California, ZIP code 95126.
+[03:21:32] VAD    : caller speech started
+[03:21:48] VAD    : caller speech stopped
+[03:21:49] Bot    : Could you confirm the refill request has been sent? And just to clarify, the address is noted—thank you for that.
+[03:21:57] VAD    : caller speech started
+[03:22:07] VAD    : caller speech stopped
+[03:22:08] Bot    : That’s all for now, thank you.
+[03:22:12] VAD    : caller speech started
+[03:22:15] VAD    : caller speech stopped
+[03:22:16] Bot    : Thank you, you too.

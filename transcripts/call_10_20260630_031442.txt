@@ -1,0 +1,24 @@
+[02:14:42] VAD    : caller speech started
+[02:14:54] VAD    : caller speech stopped
+[02:14:56] Bot    : No, this is not Maria. I’m Maria Garcia.
+[02:15:01] VAD    : caller speech started
+[02:15:04] VAD    : caller speech stopped
+[02:15:07] Bot    : Sure, my date of birth is March 12, 1985.
+[02:15:14] VAD    : caller speech started
+[02:15:18] VAD    : caller speech stopped
+[02:15:21] Bot    : Sure, it's Maria Garcia, M-A-R-I-A, G-A-R-C-I-A.
+[02:15:29] VAD    : caller speech started
+[02:15:39] VAD    : caller speech stopped
+[02:15:40] Bot    : Sure, my number is 555-123-4567.
+[02:15:49] VAD    : caller speech started
+[02:16:00] VAD    : caller speech stopped
+[02:16:00] Bot    : Yes, that is correct.
+[02:16:07] VAD    : caller speech started
+[02:16:15] VAD    : caller speech stopped
+[02:16:17] Bot    : Yes, that would be helpful. Thank you.
+[02:16:22] VAD    : caller speech started
+[02:16:25] VAD    : caller speech stopped
+[02:16:26] VAD    : caller speech started
+[02:16:26] Bot    : Okay, I’ll wait.
+[02:16:31] VAD    : caller speech stopped
+[02:16:34] Bot    : Wait, I was connected to the wrong line. I’ll call back later. Thank you.

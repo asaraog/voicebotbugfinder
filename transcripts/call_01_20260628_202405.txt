@@ -1,0 +1,45 @@
+[20:20:01] VAD    : caller speech started
+[20:20:07] VAD    : caller speech stopped
+[20:20:07] VAD    : caller speech started
+[20:20:07] Bot    : Entendido, gracias por avisarme. Sí, prefiero continuar en español,
+[20:20:09] VAD    : caller speech stopped
+[20:20:11] Bot    : Hola, quiero agendar mi primera cita, por favor.
+[20:20:16] VAD    : caller speech started
+[20:20:23] VAD    : caller speech stopped
+[20:20:25] Bot    : Claro, mi nombre es María García.
+[20:20:29] VAD    : caller speech started
+[20:20:33] VAD    : caller speech stopped
+[20:20:35] Bot    : Sí, por favor, me gustaría hablar con un agente que hable español.
+[20:20:49] VAD    : caller speech started
+[20:20:58] VAD    : caller speech stopped
+[20:20:59] Bot    : Sí, prefiero continuar en español, gracias.
+[20:21:12] VAD    : caller speech started
+[20:21:19] VAD    : caller speech stopped
+[20:21:19] Bot    : Prefiero continuar en español, por favor.
+[20:21:31] VAD    : caller speech started
+[20:21:38] VAD    : caller speech stopped
+[20:21:39] Bot    : Prefiero que continuemos en español, gracias.
+[20:21:53] VAD    : caller speech started
+[20:22:04] VAD    : caller speech stopped
+[20:22:05] Bot    : Mi fecha de nacimiento es el 12 de marzo de 1985. Necesito agendar mi cita, por favor.
+[20:22:21] VAD    : caller speech started
+[20:22:24] VAD    : caller speech stopped
+[20:22:25] Bot    : Quisiera agendar mi primera cita, por favor.
+[20:22:37] VAD    : caller speech started
+[20:22:40] VAD    : caller speech stopped
+[20:22:41] Bot    : I’d like to schedule an appointment for my first visit, please.
+[20:22:47] VAD    : caller speech started
+[20:22:53] VAD    : caller speech stopped
+[20:22:53] Bot    : I'm open to the first available provider, thank you.
+[20:22:59] VAD    : caller speech started
+[20:23:09] VAD    : caller speech stopped
+[20:23:10] Bot    : Next week would be fine—what dates do you have available?
+[20:23:16] VAD    : caller speech started
+[20:23:28] VAD    : caller speech stopped
+[20:23:28] Bot    : That time works for me, let's book it.
+[20:23:35] VAD    : caller speech started
+[20:23:52] VAD    : caller speech stopped
+[20:23:53] Bot    : No, that's all, thank you.
+[20:23:56] VAD    : caller speech started
+[20:24:02] VAD    : caller speech stopped
+[20:24:03] Bot    : Thank you so much, you too.

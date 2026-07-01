@@ -1,0 +1,26 @@
+[21:33:25] VAD    : caller speech started
+[21:33:37] VAD    : caller speech stopped
+[21:33:38] Bot    : Actually, my name is Maria Garcia. Yes, that’s me.
+[21:33:44] VAD    : caller speech started
+[21:33:47] VAD    : caller speech stopped
+[21:33:48] Bot    : Sure, my date of birth is March 12, 1985.
+[21:33:55] VAD    : caller speech started
+[21:34:01] VAD    : caller speech stopped
+[21:34:02] Bot    : I’d like to book my first visit, please.
+[21:34:09] VAD    : caller speech started
+[21:34:15] VAD    : caller speech stopped
+[21:34:15] Bot    : Yes, that's correct.
+[21:34:22] VAD    : caller speech started
+[21:34:25] VAD    : caller speech stopped
+[21:34:26] Bot    : I'm open to the first available.
+[21:34:35] VAD    : caller speech started
+[21:34:47] VAD    : caller speech stopped
+[21:34:47] Bot    : I wasn’t aware—it might be under my name. Could you tell me the date?
+[21:34:53] VAD    : caller speech started
+[21:35:04] VAD    : caller speech stopped
+[21:35:05] Bot    : Yes, that would be great, thank you.
+[21:35:10] VAD    : caller speech started
+[21:35:14] VAD    : caller speech stopped
+[21:35:14] VAD    : caller speech started
+[21:35:19] VAD    : caller speech stopped
+[21:35:19] Bot    : Thank you, goodbye.
